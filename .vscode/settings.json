@@ -1,0 +1,8 @@
+{
+  "python.pythonPath": "C:\\Users\\Bojan\\.virtualenvs\\storefront-HYRFLUY1\\bin\\python.exe",
+  "python.testing.pytestArgs": [
+    "."
+  ],
+  "python.testing.unittestEnabled": false,
+  "python.testing.pytestEnabled": true,
+}
