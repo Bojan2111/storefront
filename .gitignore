@@ -1,4 +1,5 @@
 .env
 storefront/tokens.txt
 media/
-media/store/images/"db.sqlite3" 
+media/store/images/
+db.sqlite3
