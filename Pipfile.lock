@@ -1038,7 +1038,7 @@
                 "sha256:f7ed2346eb9dc4344f9cb0d7963ce5b74fe16fdd031a2809bb6c2b6eba7ebcd5"
             ],
             "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4, 3.5'",
-            "version": "==22.10.2"
+            "version": ">=23.9.0"
         },
         "geventhttpclient": {
             "hashes": [
