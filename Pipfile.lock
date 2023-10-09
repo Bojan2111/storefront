@@ -61,7 +61,7 @@
                 "sha256:90c1a32f1d68f940488354e36370f6cca89f0f106db09518524c88d6ed83f382"
             ],
             "markers": "python_version >= '3.6'",
-            "version": "==2022.9.24"
+            "version": ">=2023.7.22"
         },
         "cffi": {
             "hashes": [
@@ -835,7 +835,7 @@
                 "sha256:90c1a32f1d68f940488354e36370f6cca89f0f106db09518524c88d6ed83f382"
             ],
             "markers": "python_version >= '3.6'",
-            "version": "==2022.9.24"
+            "version": ">=2023.7.22"
         },
         "cffi": {
             "hashes": [
